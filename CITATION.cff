@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this reproducibility package and the associated article when using these materials."
+type: dataset
+title: "Reproducibility materials for Training Context Construction and Calibration for Evidence Gating in Retrieval Augmented Question Answering"
+authors:
+  - given-names: Zhe
+    family-names: Yang
+  - given-names: Jiazhe
+    family-names: Wu
+  - given-names: Yu
+    family-names: Wang
+  - given-names: Chen
+    family-names: Yan
+version: "1.0.0"
+repository-code: "https://github.com/ANEMONE-ops/evidence-gating-rag-reproducibility"
+keywords:
+  - retrieval-augmented generation
+  - evidence gating
+  - question answering
+  - reproducibility
