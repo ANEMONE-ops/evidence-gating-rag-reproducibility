@@ -1,0 +1,15 @@
+{
+  "title": "Reproducibility materials for Training Context Construction and Calibration for Evidence Gating in Retrieval Augmented Question Answering",
+  "description": "<p>Reproducibility data and code for the study of training context construction and calibration for evidence gating. The archives contain experimental inputs, saved predictions, independent calibration and public-benchmark evaluation records, numerical reproduction scripts, training protocols, and figure sources.</p><p>Reuse terms are component-specific. DATA_SOURCES.md identifies the upstream sources, changes, and applicable licenses. The record is publicly accessible. Its archive-level license label does not replace any component license or grant additional reuse rights.</p>",
+  "creators": [
+    {"name": "Yang, Zhe"},
+    {"name": "Wu, Jiazhe"},
+    {"name": "Wang, Yu"},
+    {"name": "Yan, Chen"}
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "other-open",
+  "version": "1.0.0",
+  "keywords": ["retrieval-augmented generation", "evidence gating", "question answering", "reproducibility"]
+}
